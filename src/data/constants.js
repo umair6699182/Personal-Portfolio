@@ -315,7 +315,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
     tags: ["React Js", "MongoDB", "Express JS", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/umair6699182/ChatVibe",
+    webapp: "https://github.com/umair6699182/ChatVibe",
   },
 ];
