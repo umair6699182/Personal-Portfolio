@@ -1,5 +1,6 @@
 import raeesa from '../images/raeesa.png'
 import iphone from '../images/iphone.png'
+import gmail from '../images/gmail.png'
 
 
 export const Bio = {
@@ -293,30 +294,16 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Gmail Clone",
+    date: "Nov 2023 - Dec 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "A basic Gmail clone allows users to compose, send, and manage emails with ease. It includes basic features like drafting and saving emails, organizing them into folders such as “Inbox,” “Sent,” and “Drafts.” Users can also mark important emails as favorites for quick access.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      gmail,
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Context API"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    github: "https://github.com/umair6699182/Gmail-Clone",
+    webapp: "https://github.com/umair6699182/Gmail-Clone",
   },
   {
     id: 1,
@@ -393,13 +380,13 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "Chat Vibe",
+    date: "Jul 2023",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "A Chat Vibe made with React JS, and Material UI. It has Email Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    tags: ["React Js", "MongoDB", "Express JS", "Node JS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
     webapp: "https://whatsapp-clone-rishav.web.app",
